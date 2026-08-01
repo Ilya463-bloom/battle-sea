@@ -32,7 +32,7 @@ jobs:
           node-version: 24
           cache: npm
 
-      - run: npm ci
+      - run: npm install
 
       # Typecheck plus the two headless smoke tests — a broken build never ships.
       - run: npm run check
