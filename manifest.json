@@ -1,0 +1,16 @@
+{
+  "name": "Battle Sea",
+  "short_name": "Battle Sea",
+  "start_url": "/battle-sea/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "description": "Морской бой — классическая игра",
+  "icons": [
+    {
+      "src": "https://ilya463-bloom.github.io/battle-sea/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
